@@ -61,10 +61,6 @@ I'm a Computer Science undergrad building real-world products from scratch — f
 
 <div align="center">
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashgargdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgargdev&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=yashgargdev&theme=tokyonight&hide_border=true)
 
 </div>
