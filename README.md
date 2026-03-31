@@ -49,28 +49,11 @@ I'm a Computer Science undergrad building real-world products from scratch — f
 
 ---
 
-## 💼 Experience
+## 🔨 Open-Source Projects
 
-**Software Development Intern @ Nami Groups** *(Mar 2026 – May 2026)*
-- Built internal web tools and dashboards to streamline operations
-- Integrated databases for structured data and optimized query performance
-- Automated workflows reducing manual tasks by **~30%**
-
-**UI/UX Design Intern @ Cognifyz Technologies** *(Dec 2025 – Jan 2026)*
-- Designed UI components for web apps focused on usability and visual clarity
-- Built wireframes and prototypes in Figma to improve user experience
-
----
-
-## 🔨 Projects
-
-### 🤖 [Kairo – AI Chatbot Platform](https://github.com/yashgargdev) &nbsp; ![Live](https://img.shields.io/badge/Live-✔-brightgreen?style=flat-square)
+### 🤖 [Kairo – AI Chatbot Platform](https://github.com/yashgargdev/Kairo) &nbsp; ![Live](https://img.shields.io/badge/Live-✔-brightgreen?style=flat-square)
 `Next.js` `React` `Supabase` `Sarvam AI` `JavaScript` `REST APIs`
 > Open-source multilingual AI chatbot powered by Sarvam AI. Features chat history management and modular React components for scalable UI architecture.
-
-### 📝 [WriteVision OCR](https://github.com/yashgargdev)
-`Python` `Flask` `PyTorch` `Transformers`
-> OCR system built on the TrOCR transformer model achieving **~80% accuracy** on handwritten text datasets with custom preprocessing and model fine-tuning.
 
 ---
 
