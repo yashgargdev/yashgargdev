@@ -71,21 +71,6 @@ I'm a Computer Science undergrad building real-world products from scratch — f
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 **Top 5000** out of 25,000 teams — Build With India Hackathon
-- 🎌 **JLPT N5** — Japanese Language Proficiency
-- 📊 **Alteryx Designer Core Certificate**
-- ☕ **HackerRank Java Certificate**
-
----
-
-## 🌐 Languages
-
-🇬🇧 English &nbsp;|&nbsp; 🇮🇳 Hindi &nbsp;|&nbsp; 🇯🇵 Japanese (JLPT N5)
-
----
-
 <div align="center">
 
 *"Build things that matter. Ship things that work."*
